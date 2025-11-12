@@ -1,0 +1,31 @@
+STATE,TRANSACTIONS,TOTAL_FUNDING,TOTAL_PRIVATE,TOTAL_NONPRIVATE,JOBS_CREATED,JOBS_RETAINED,FUNDING_PER_JOB,FUNDING_PER_TX,FUNDING_CATEGORY,EFFICIENCY_CATEGORY,FUNDING_RANK,PERCENTILE_POSITION,FUNDING_VS_AVG,EFFICIENCY_VS_AVG
+California,10286,996348780.35,46730094.1,0,14232.5,78300.0,10767.55,96864.55,🏆 Very High Funding,✅ Efficient,1,0,Above Avg,More Efficient
+North Carolina,769,512534633.12,42673457.08,0,3732.5,8791.7,40923.54,666494.97,🏆 Very High Funding,✅ Efficient,2,1.8,Above Avg,More Efficient
+Florida,278,367055651.29,24732090,2397000,3299.5,1073.0,83946.4,1320344.07,🏆 Very High Funding,⚙️ Average Efficiency,3,3.6,Above Avg,Less Efficient
+New York,1764,332847014.6,12474283,1400000,3085.4,5122.5,40552.03,188688.78,🏆 Very High Funding,✅ Efficient,4,5.5,Above Avg,More Efficient
+Michigan,962,319236577.01,111243531.01,182900,6497.7,4718.1,28463.11,331846.75,🏆 Very High Funding,✅ Efficient,5,7.3,Above Avg,More Efficient
+Illinois,240,277959517.09,285827797.1,0,2957.0,1470.0,62787.33,1158164.65,🏆 Very High Funding,⚙️ Average Efficiency,6,9.1,Above Avg,Less Efficient
+Georgia,499,263702952.52,12722470,350261.56,2200.0,1827.0,65483.72,528462.83,🏆 Very High Funding,⚙️ Average Efficiency,7,10.9,Above Avg,Less Efficient
+Kansas,92,237011716.54,0,5440541,1248.0,521.3,133957.9,2576214.31,🏆 Very High Funding,⚠️ Low Efficiency,8,12.7,Above Avg,Less Efficient
+Alabama,582,231354466.18,0,360000,2404.0,4129.0,35413.2,397516.26,🏆 Very High Funding,✅ Efficient,9,14.5,Above Avg,More Efficient
+Idaho,315,207096286,5195000,4104608,1051.0,2030.0,67217.23,657448.53,🏆 Very High Funding,⚙️ Average Efficiency,10,16.4,Above Avg,Less Efficient
+Texas,57,195233539.45,0,0,705.0,781.0,131381.92,3425149.81,🏆 Very High Funding,⚠️ Low Efficiency,11,18.2,Above Avg,Less Efficient
+Maryland,55,182951812.82,13507000,200000,1072.5,1178.0,81293.85,3326396.6,🏆 Very High Funding,⚙️ Average Efficiency,12,20,Above Avg,Less Efficient
+Vermont,174,177291826,0,65000,1741.0,213.0,90732.77,1018918.54,🏆 Very High Funding,⚙️ Average Efficiency,13,21.8,Above Avg,Less Efficient
+Ohio,551,170742254.78,515000,2350781.78,3380.0,4865.0,20708.58,309877.05,🏆 Very High Funding,✅ Efficient,14,23.6,Above Avg,More Efficient
+New Hampshire,350,157105765.14,16357950,1072645.63,761.0,4031.0,32785.01,448873.61,🏆 Very High Funding,✅ Efficient,15,25.5,Above Avg,More Efficient
+South Carolina,205,153612526.99,0,0,652.5,2696.5,45868.18,749329.4,🏆 Very High Funding,✅ Efficient,16,27.3,Above Avg,More Efficient
+Oregon,265,143746315.57,33080397,1163599,887.0,809.0,84756.08,542438.93,🏆 Very High Funding,⚙️ Average Efficiency,17,29.1,Above Avg,Less Efficient
+Arkansas,284,117532845.65,8074500,3191887.05,1409.0,366.5,66197.04,413848.05,🏆 Very High Funding,⚙️ Average Efficiency,18,30.9,Below Avg,Less Efficient
+Pennsylvania,189,117059387.1,15212842.72,1240548.67,1127.5,2157.0,35639.94,619361.84,🏆 Very High Funding,✅ Efficient,19,32.7,Below Avg,More Efficient
+Tennessee,89,114867789.95,2499770,225000,398.5,1153.5,74012.75,1290649.33,🏆 Very High Funding,⚙️ Average Efficiency,20,34.5,Below Avg,Less Efficient
+Hawaii,120,107974519.17,0,528269,158.5,519.5,159254.45,899787.66,🏆 Very High Funding,⚠️ Low Efficiency,21,36.4,Below Avg,Less Efficient
+Massachusetts,1015,106604816.99,0,1360518.1,1294.5,10658.0,8919.04,105029.38,🏆 Very High Funding,✅ Efficient,22,38.2,Below Avg,More Efficient
+Colorado,219,101496205.65,33663675,618687,989.0,482.0,68998.1,463452.99,🏆 Very High Funding,⚙️ Average Efficiency,23,40,Below Avg,Less Efficient
+Washington,88,98404297.95,27599139.4,100000,854.0,1231.0,47196.31,1118230.66,🏆 Very High Funding,✅ Efficient,24,41.8,Below Avg,More Efficient
+Virginia,292,98200504.04,0,77680.32,2964.0,2531.0,17870.88,336303.1,🏆 Very High Funding,✅ Efficient,25,43.6,Below Avg,More Efficient
+Missouri,93,90070943.76,255000,150000,1248.0,363.9,55878.74,968504.77,🏆 Very High Funding,⚙️ Average Efficiency,26,45.5,Below Avg,More Efficient
+Kentucky,161,88484330.83,28267440.94,1100000,1122.0,1298.0,36563.77,549592.12,🏆 Very High Funding,✅ Efficient,27,47.3,Below Avg,More Efficient
+Mississippi,119,83941795.57,2320675,1122814.53,796.0,211.5,83316.92,705393.24,🏆 Very High Funding,⚙️ Average Efficiency,28,49.1,Below Avg,Less Efficient
+New Jersey,73,82784511.94,43349917.08,2528375,960.5,1164.0,38966.59,1134034.41,🏆 Very High Funding,✅ Efficient,29,50.9,Below Avg,More Efficient
+North Dakota - Mandan,44,82305604.32,4310958.35,3266214.93,506.0,201.5,116333.01,1870581.92,🏆 Very High Funding,⚠️ Low Efficiency,30,52.7,Below Avg,Less Efficient
